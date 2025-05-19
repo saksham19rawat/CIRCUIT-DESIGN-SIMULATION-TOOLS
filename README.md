@@ -29,7 +29,7 @@ I'll list all the steps which i figured i had to do to complete the set up of th
   → Debug them
 After surviving that loop a few (dozen) times... all the software was finally up and running. 🎉
 
-Below attached picture is the basic commands and steps that i did
-
+Below attached picture is the basic commands and steps that i did[
+https://github.com/saksham19rawat/CMOS_INVERTER/blob/main/WhatsApp%20Image%202025-05-19%20at%2016.32.50_8294aa36.jpg?raw=true
 
 
