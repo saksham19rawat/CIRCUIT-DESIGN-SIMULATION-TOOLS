@@ -15,7 +15,9 @@ Fast forward through hours of intense Googling, heroic levels of procrastination
 I'll list all the steps which i figured i had to do to complete the set up of the open source softwares on my laptop and how to do it:
 
 1.FINAL GOAL: Install **Magic VLSI**, **Xschem**, **NGSpice**, and the **Sky130 PDK**.
+
 2.All of these tools are Linux-only, but luckily, that wasn’t much of a problem as Windows 11 provides WSL (Windows Subsystem for Linux), which lets you run Ubuntu right inside Windows.Next up: installing all the free tools. I took help of YouTuber **Nurahmet Dolan** for initial setup.
+
 3.Step-by-step process:
   → Get an error
   → Debug it
@@ -25,8 +27,9 @@ I'll list all the steps which i figured i had to do to complete the set up of th
   → Reinstall everything
   → Surprise! Even more errors
   → Debug them
-
 After surviving that loop a few (dozen) times... all the software was finally up and running. 🎉
+
+Below attached picture is the basic commands and steps that i did
 
 
 
