@@ -7,6 +7,12 @@ To achieve this, I used Xschem for schematic design and symbol generation, follo
 
 This is my first-ever project and also my first GitHub repository, so I’ll try to keep things as **simple and transparent** as possible—so both the person writing this (me) and the one reading it know exactly where we’re headed.
 
+# XSCHEM
+[XSCHEM](http://repo.hu/projects/xschem/xschem_man/xschem_man.html)is a schematic capture tool used for designing electronic circuits. It's lightweight, fast, and well-suited for analog and mixed-signal design. Xschem allows users to draw circuits, define components, and generate netlists compatible with simulation tools like Ngspice.
+# NGSPICE
+[NGSPICE](https://ngspice.sourceforge.io/devel.html)is an open-source circuit simulation engine based on SPICE (Simulation Program with Integrated Circuit Emphasis). It is used to simulate analog, digital, and mixed-signal circuits. Ngspice takes netlists (like those from Xschem) and provides time-domain (transient), frequency-domain (AC), and operating point analyses
+# SKY130(PDK)
+
 ### BEGINNING 
 Alright, so it all started when I was hunting for some projects to do over the summer break. That’s when I stumbled upon a video by the YouTuber **whyRD**, talking about how to get started with VLSI basics and what tools you'll need. It was the first time I heard words like Verilog, Xschem, and PDKs—and I had absolutely no clue what any of that meant. Naturally, I decided to see what the fuss was all about.
 
