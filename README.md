@@ -1,4 +1,4 @@
-# CMOS_INVERTER
+# WORKING WITH XSCHEM NGSPICE AND OTHER CIRCUIT DESIGNING/SIMULATION TOOLS
 
 ## INTRODUCTION
 This project focuses on the design and simulation of a CMOS Inverter, a fundamental building block in digital electronics. The aim was to understand its working principles and go through the complete VLSI design flow, starting from schematic to layout and verification.
