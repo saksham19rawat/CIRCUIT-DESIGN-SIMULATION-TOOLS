@@ -8,7 +8,6 @@ To achieve this, I used Xschem for schematic design and symbol generation, follo
 This is my first-ever project and also my first GitHub repository, so I’ll try to keep things as **simple and transparent** as possible—so both the person writing this (me) and the one reading it know exactly where we’re headed.
 
 ### XSCHEM
-![image alt](https://github.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/blob/main/CMOS%20INVERTER/Home%20screen.png?raw=true)
 [XSCHEM](http://repo.hu/projects/xschem/xschem_man/xschem_man.html) is a schematic capture tool used for designing electronic circuits. It's lightweight, fast, and well-suited for analog and mixed-signal design. Xschem allows users to draw circuits, define components, and generate netlists compatible with simulation tools like Ngspice.
 
 ### NGSPICE
@@ -43,5 +42,14 @@ After surviving that loop a few (dozen) times... all the software was finally up
 
 Below attached picture is the basic commands and steps that i did
 ![image alt](https://github.com/saksham19rawat/CMOS_INVERTER/blob/main/CMOS%20INVERTER/WhatsApp%20Image%202025-05-19%20at%2016.47.21_49256d68.jpg?raw=true)
+
+
+## Designing An Example Circuit
+![image alt](https://upload.wikimedia.org/wikipedia/commons/a/ad/Ngspice_logo.jpg)
+![image alt](https://upload.wikimedia.org/wikipedia/commons/a/ad/Ngspice_logo.jpg)
+![image alt](https://upload.wikimedia.org/wikipedia/commons/a/ad/Ngspice_logo.jpg)
+![image alt](https://upload.wikimedia.org/wikipedia/commons/a/ad/Ngspice_logo.jpg)
+
+
 
 
