@@ -16,7 +16,7 @@ I'll list all the steps which i figured i had to do to complete the set up of th
 
 1.FINAL GOAL: Install **Magic VLSI**, **Xschem**, **NGSpice**, and the **Sky130 PDK**.
 
-2.All of these tools are Linux-only, but luckily, that wasn’t much of a problem as Windows 11 provides WSL (Windows Subsystem for Linux), which lets you run Ubuntu right inside Windows.Next up: installing all the free tools. I took help of YouTuber **Nurahmet Dolan** for initial setup.
+2.All of these tools are Linux exclusive, but luckily, that wasn’t much of a problem as Windows 11 provides **WSL (Windows Subsystem for Linux)**, which lets you run Ubuntu right inside Windows.Next up: installing all the free tools. I took help of YouTuber **Nurahmet Dolan** for initial setup.
 
 3.Step-by-step process:
   → Get an error
