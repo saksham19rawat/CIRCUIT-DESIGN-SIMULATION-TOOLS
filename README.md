@@ -52,14 +52,28 @@ Below attached picture is the basic commands and steps that i did
 # Designing An Example Circuit
 
 ## opening xschem
-![image alt](https://raw.githubusercontent.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/refs/heads/main/CMOS%20INVERTER/Opening%20xschem.png?token=GHSAT0AAAAAADEBIPGCLMZ63FRC3HXZS3ZE2BNWKIQ)
+![image alt](https://github.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/blob/main/CMOS%20INVERTER/Opening%20xschem.png?raw=true)
 
 
-![image alt](https://raw.githubusercontent.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/refs/heads/main/CMOS%20INVERTER/Home%20screen.png?token=GHSAT0AAAAAADEBIPGC2DCR6KTEPDGC3QVW2BNWKOQ)
+![image alt](https://github.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/blob/main/CMOS%20INVERTER/Home%20screen.png?raw=true)
 
-## Designing a sample circuit
+## Designing a sample CMOS inverter
 
-![image alt](https://raw.githubusercontent.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/refs/heads/main/CMOS%20INVERTER/EXAMPLE%20CIRCUIT.png?token=GHSAT0AAAAAADEBIPGDOBZ4DJ2GVCHW5ME42BNWKWQ)
+![image alt](https://github.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/blob/main/CMOS%20INVERTER/EXAMPLE%20CIRCUIT.png?raw=true)
+
+### NETLIST
+
+![image alt](https://github.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/blob/main/CMOS%20INVERTER/netlist.png?raw=true)
+
+### NG-SPICE
+
+![image alt](https://github.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/blob/main/CMOS%20INVERTER/Using%20ngspice.png?raw=true)
+
+### GRAPH
+
+![image alt](https://github.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/blob/main/CMOS%20INVERTER/EXAMPLE%20GRAPH.png?raw=true)
+
+
 
 
 
