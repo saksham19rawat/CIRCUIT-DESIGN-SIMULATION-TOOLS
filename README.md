@@ -62,6 +62,12 @@ Below attached picture is the basic commands and steps that i did
 
 ![image alt](https://github.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/blob/main/CMOS%20INVERTER/EXAMPLE%20CIRCUIT.png?raw=true)
 
+The block named spice is called called **code_shown** it helps us to set the steps or the values of which source change wrt time and also tells the simulator (ngspice) how to interpret the code
+
+**QUESTION1** Why do we have pmos above nmos in the construction of cmos?
+Refer to the table in those 4 pages(Handwritten)
+
+
 ### NETLIST
 
 ![image alt](https://github.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/blob/main/CMOS%20INVERTER/netlist.png?raw=true)
@@ -73,6 +79,8 @@ Below attached picture is the basic commands and steps that i did
 ### GRAPH
 
 ![image alt](https://github.com/saksham19rawat/CIRCUIT-DESIGN-SIMULATION-TOOLS/blob/main/CMOS%20INVERTER/EXAMPLE%20GRAPH.png?raw=true)
+
+We can clearly see that when the input goes to zero the output is maximum and vice-versa which is how a inverter is supposed to work :)
 
 
 
